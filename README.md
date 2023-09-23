@@ -1,5 +1,5 @@
 # poemShuffler
-[![](screenshot.png)]
+![](screenshot.png)
 poem shuffler
 
 **note: requires having lua installed on your computer**
