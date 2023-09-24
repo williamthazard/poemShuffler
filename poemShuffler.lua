@@ -19,6 +19,6 @@ for i=1,#mixer do
     mixed = mixed.."\n"
 end
 print(mixed)
-io.output("scramble.txt")
+io.output("shuffled.txt")
 io.write(mixed)
 io.close()
